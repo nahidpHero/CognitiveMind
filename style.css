@@ -13,4 +13,24 @@
   padding-bottom: 140px;
   
 }
+.quatetion{
+  text-align: center;
+  color: darkslategray;
+}
+hr{
+  background-color: black;
+  height:5px;
+  
+}
+.about{
+  text-align:center;
+}
 
+footer{
+  background-color: rgb(94, 94, 121);
+}
+
+.footer-image{
+  text-align: center;
+  padding: 20px;
+}
