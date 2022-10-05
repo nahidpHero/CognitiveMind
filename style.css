@@ -1,0 +1,16 @@
+
+.header-image{
+  background-image: url("images/267988-machine-learning-consultancy-archives-rock-concert.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.heder-logo{
+  text-align: center;
+  width: 100%;
+  padding-top: 140px;
+  padding-bottom: 140px;
+  
+}
+
